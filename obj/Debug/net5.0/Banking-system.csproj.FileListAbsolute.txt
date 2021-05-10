@@ -1,0 +1,16 @@
+C:\Users\nandana.b\Desktop\Banking-system\bin\Debug\net5.0\Banking-system.exe
+C:\Users\nandana.b\Desktop\Banking-system\bin\Debug\net5.0\Banking-system.deps.json
+C:\Users\nandana.b\Desktop\Banking-system\bin\Debug\net5.0\Banking-system.runtimeconfig.json
+C:\Users\nandana.b\Desktop\Banking-system\bin\Debug\net5.0\Banking-system.runtimeconfig.dev.json
+C:\Users\nandana.b\Desktop\Banking-system\bin\Debug\net5.0\Banking-system.dll
+C:\Users\nandana.b\Desktop\Banking-system\bin\Debug\net5.0\ref\Banking-system.dll
+C:\Users\nandana.b\Desktop\Banking-system\bin\Debug\net5.0\Banking-system.pdb
+C:\Users\nandana.b\Desktop\Banking-system\obj\Debug\net5.0\Banking-system.csprojAssemblyReference.cache
+C:\Users\nandana.b\Desktop\Banking-system\obj\Debug\net5.0\Banking-system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nandana.b\Desktop\Banking-system\obj\Debug\net5.0\Banking-system.AssemblyInfoInputs.cache
+C:\Users\nandana.b\Desktop\Banking-system\obj\Debug\net5.0\Banking-system.AssemblyInfo.cs
+C:\Users\nandana.b\Desktop\Banking-system\obj\Debug\net5.0\Banking-system.csproj.CoreCompileInputs.cache
+C:\Users\nandana.b\Desktop\Banking-system\obj\Debug\net5.0\Banking-system.dll
+C:\Users\nandana.b\Desktop\Banking-system\obj\Debug\net5.0\ref\Banking-system.dll
+C:\Users\nandana.b\Desktop\Banking-system\obj\Debug\net5.0\Banking-system.pdb
+C:\Users\nandana.b\Desktop\Banking-system\obj\Debug\net5.0\Banking-system.genruntimeconfig.cache
